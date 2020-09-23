@@ -58,11 +58,11 @@ We can also provide the whole package with all the data streams on request: *mlr
 * The final results should be now available in the **results/all/summary** directory.
 
 ### Source code
-- To conduct own experiments set paths in ***src/eval/Evaluator.java*** and run it. You can pick between different experiments in *runBalancingQueryExperiments()*.
-* Details of experiments are defined in ***src/eval/cases/imb***. 
-* To change the base learner uncomment a selected classifier in ***src/eval/experiment/ExperimentRow.java***
-* To run selected rows on specific data uncomment streams in ***src/eval/experiment/ExperimentStream.java***
-* The final results should be now available in the ***results*** directory.
+- To conduct own experiments set paths in **src/eval/Evaluator.java** and run it. You can pick between different experiments in *runBalancingQueryExperiments()*.
+* Details of experiments are defined in **src/eval/cases/imb**. 
+* To change the base learner uncomment a selected classifier in **src/eval/experiment/ExperimentRow.java**
+* To run selected rows on specific data uncomment streams in **src/eval/experiment/ExperimentStream.java**
+* The final results should be now available in the **results** directory.
 
 ### Testing
-All unit tests can be found in ***tests***.
+All unit tests can be found in **tests**.
