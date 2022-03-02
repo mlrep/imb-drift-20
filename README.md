@@ -6,28 +6,13 @@ https://github.com/lkorycki/osamp-moa
 
 ## Data
 
-Two sets of streams are required: the real streams and the semi-synthetic streams. The former can be downloaded from websites given below. The latter can be generated based on the real ones, using a given script. 
+Two sets of streams are required: the real streams and the semi-synthetic streams. Both can be downloaded from: https://drive.google.com/drive/folders/1pFnKnKWR30_KnNpUvhW4LhCqSoly738m?usp=sharing
 
 Send us an email in case of any problem: *mlrep.contact@gmail.com*
 
-### Real streams
+### Generating new semi-synthtetic streams
 
-* ACTIVITY and ACTIVITY_RAW: http://www.cis.fordham.edu/wisdm/dataset.php
-* CONNECT4: http://archive.ics.uci.edu/ml/datasets/connect-4
-* COVERTYPE: http://www.openml.org/d/150
-* CRIMES: https://www.kaggle.com/c/sf-crime/data
-* DJ30: (in the repository)
-* EEG: https://archive.ics.uci.edu/ml/datasets/EEG+Eye+State
-* ELEC: http://moa.cms.waikato.ac.nz/datasets
-* GAS: http://archive.ics.uci.edu/ml/datasets/Gas+Sensor+Array+Drift+Dataset
-* OLYMPIC: https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results
-* POKER: http://moa.cms.waikato.ac.nz/datasets
-* SENSOR: http://www.cse.fau.edu/~xqzhu/stream.html
-* TAGS: https://archive.ics.uci.edu/ml/datasets/Localization+Data+for+Person+Activity
-
-All the data streams should be converted to ARFF files.
-
-### Semi-synthetic streams
+New benchmarks can be generated based on the real ones, using a given script. 
 
 * Make sure that all the real streams are in: **streams/real**.
 * Each data stream should be in: *streams/real/STREAM_NAME.arff*.
