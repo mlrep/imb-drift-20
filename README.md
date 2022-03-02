@@ -1,9 +1,5 @@
 # Experiments for: *Online Oversampling for Sparsely Labeled Imbalanced and Non-Stationary Data Streams*
 
-## Implementation in MOA
-
-https://github.com/lkorycki/osamp-moa
-
 ## Data
 
 Two sets of streams are required: the real streams and the semi-synthetic streams. Both can be downloaded from: https://drive.google.com/drive/folders/1pFnKnKWR30_KnNpUvhW4LhCqSoly738m?usp=sharing
@@ -55,3 +51,6 @@ We can also provide the whole package with all the data streams on request: *mlr
 
 ### Testing
 All unit tests can be found in **tests**.
+
+## Implementation in MOA
+https://github.com/lkorycki/osamp-moa
