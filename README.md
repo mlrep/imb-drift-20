@@ -4,8 +4,6 @@
 
 Two sets of streams are required: the real streams and the semi-synthetic streams. Both can be downloaded from: https://drive.google.com/drive/folders/1pFnKnKWR30_KnNpUvhW4LhCqSoly738m?usp=sharing
 
-Send us an email in case of any problem: *mlrep.contact@gmail.com*
-
 ### Generating new semi-synthtetic streams
 
 New benchmarks can be generated based on the real ones, using a given script. 
