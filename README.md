@@ -30,7 +30,7 @@ Where the second argument (array) consists of definitions of drifts based on the
 
 ### Package
 
-We can also provide the whole package with all the data streams on request: *mlrep.contact@gmail.com*
+We can also provide the whole package with all the data streams on request.
 
 ## Experiments
 
